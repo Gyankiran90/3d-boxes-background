@@ -5,4 +5,4 @@
 - Smooth cursor in each section.
 - Contains an elegant white theme.
 
-![preview img](/Homepage.png)
+![preview img](/overview.png)
